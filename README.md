@@ -35,7 +35,7 @@
 
 👤 **Peteris**
 
-- Github: [@Peteris]()
+- Github: [@Peteris](https://github.com/PeterisZevalds)
 
 
 ## 🤝 Contributing
